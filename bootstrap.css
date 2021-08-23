@@ -6939,10 +6939,10 @@ fieldset:disabled .btn {
   background-color: #0dcaf0 !important;
 }
 .bg-warning {
-  background-color: #ffc107 !important;
+  background-color: #ff073d !important;
 }
 .bg-danger {
-  background-color: #dc3545 !important;
+  background-color: #000000 !important;
 }
 .bg-light {
   background-color: #f8f9fa !important;
@@ -9646,7 +9646,7 @@ header.masthead {
   overflow: hidden;
   padding-top: calc(7rem + 72px);
   padding-bottom: 7rem;
-  background: linear-gradient(0deg, #ff6a00 0%, #ee0979 100%);
+  background: linear-gradient(1deg, rgb(255, 31, 117) 0%, #ff6a00 100%);
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: scroll;
